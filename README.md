@@ -6,7 +6,7 @@
 - 🌱 I work with **nodejs**
 - 💬 Ask me about **TypeScript, Express, Front end development**
 - 📫 How to reach me **okara.chidera@gmail.com**
-- ⚡ Fun fact **I love to sing**
+- ⚡ Fun fact **I love to football**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@izakingbacrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@realtechking" height="30" width="40" /></a>
