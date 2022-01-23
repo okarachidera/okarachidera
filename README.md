@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chidera</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" /></a> </p>
-<p align="left"> <a href="https://twitter.com/@Reatechking" target="blank"><img src="https://img.shields.io/twitter/follow/@Reatechking?logo=twitter&style=for-the-badge" alt="@Reatechking" /></a> </p>
+
 - 🔭 I’m currently working on **react**
 - 🌱 I work with **nodejs**
 - 💬 Ask me about **TypeScript, Express, Front end development**
