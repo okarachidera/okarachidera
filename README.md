@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chidera</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
+<p align="center">
+  <tr>
+    <th><a href="https://github.com/okarachidera/bookstore-api">🏆 Achievements</a></th>
+    <th><a href="https://trucksnow.netlify.app/">🎩 Notable contributions</a></th>
+  </tr>
+ </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" /></a> </p>
 
 - 🔭 I’m currently working on **react**
