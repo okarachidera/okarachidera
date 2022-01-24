@@ -6,7 +6,7 @@
     <th><a href="https://trucksnow.netlify.app/">🎩 Notable contributions</a></th>
   </tr>
  </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" /></a> </p>
 
 - 🔭 I’m currently working on **react**
 - 🌱 I work with **nodejs**
