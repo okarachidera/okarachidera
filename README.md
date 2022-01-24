@@ -18,6 +18,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okarachidera&show_icons=true&locale=en&layout=compact" alt="okarachidera" /></p>
 
   <tr>
-    <th><a href="source/plugins/achievements/README.md">🏆 Achievements</a></th>
-    <th><a href="source/plugins/notable/README.md">🎩 Notable contributions</a></th>
+    <th><a href="https://github.com/okarachidera/bookstore-api">🏆 Achievements</a></th>
+    <th><a href="https://trucksnow.netlify.app/">🎩 Notable contributions</a></th>
   </tr>
