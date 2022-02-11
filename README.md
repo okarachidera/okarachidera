@@ -6,11 +6,10 @@
     <th><a href="https://trucksnow.netlify.app/">🎩 Notable contributions</a></th>
   </tr>
  </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" /></a> </p>
 
-- 🔭 I’m currently working on **react**
+- 🔭 I’m currently working on **React**
 - 🌱 I work with **nodejs**
-- 💬 Ask me about **TypeScript, Express, Front end development**
+- 💬 Ask me about **TypeScript, Express, Backend and Frontend development**
 - 📫 How to reach me **okara.chidera@gmail.com**
 - ⚡ Fun fact **I love football**
 <h3 align="left">Connect with me:</h3>
