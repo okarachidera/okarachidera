@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chidera</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
+
+```md
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;A+passionate+MERN+stack+developer)](https://git.io/typing-svg)
+```
+
 <p align="center">
   <tr>
     <th><a href="https://github.com/okarachidera/bookstore-api">🏆 Achievements</a></th>
