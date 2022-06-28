@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;A+passionate+MERN+stack+developer;With+over+4+years+experience;in+building+softwares+that+solve+problems&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;A+MERN+stack+developer;with+over+4+years+Experience;building+unique+softwares;that+solve+problems;I+am+skilled+in;TypeScript;Javascript;Express;GraphQl;React;NextJS;MongoDB;Postgres;SQL;GCP;AWS;HTML/CSS;PHP;Docker;Kubernates;VMware;MCP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 
