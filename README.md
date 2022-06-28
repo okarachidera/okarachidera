@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chidera</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-
-<h3 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;A+passionate+MERN+stack+developer)](https://git.io/typing-svg)
-</h3>
+
 
 <p align="center">
   <tr>
