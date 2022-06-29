@@ -16,7 +16,7 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" /></a> </p>
 
 - 🔭 I’m currently working on **Socket.io**
-- 🌱 I work with **nodejs**
+- 🌱 I work with **Node JS**
 - 💬 Ask me about **TypeScript, Express, React, Backend and Frontend development**
 - 📫 How to reach me **okara.chidera@gmail.com**
 - ⚡ Fun fact **I love football**
