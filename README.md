@@ -9,22 +9,22 @@
 
 ## 🏆 Achievements & Contributions
 <p align="center">
-  <a href="https://edu.penaid.co" target="blank">
+  <a href="https://edu.penaid.co" target="_blank">
     <img src="https://img.shields.io/badge/Certifi%20Loan%20App-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Certifi Loan App" />
   </a>
-  <a href="https://kit.be-hookd.com" target="blank">
+  <a href="https://kit.be-hookd.com" target="_blank">
     <img src="https://img.shields.io/badge/BeHookd%20Kit-%231DA1F2.svg?&style=for-the-badge&logo=react&logoColor=white" alt="BeHookd Kit" />
   </a>
-  <a href="https://padi.penaid.co" target="blank">
+  <a href="https://padi.penaid.co" target="_blank">
     <img src="https://img.shields.io/badge/PADI%20Loan%20App-%23FF6F00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="PADI Loan App" />
   </a>
-  <a href="https://musiksite.netlify.app/" target="blank">
+  <a href="https://musiksite.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Musik%20Vibe-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Musik Vibe" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="GitHub Trophies" />
   </a>
 </p>
@@ -67,7 +67,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/okarachidera" target="blank">
+  <a href="https://github.com/okarachidera" target="_blank">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okarachidera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okarachidera&layout=compact&langs_count=8&theme=algolia"/>
   </a>
@@ -81,14 +81,17 @@
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="https://x.com/chideraokara" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter (X)" height="30" width="40" />
+  <a href="mailto:okara.chidera@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/okara-chidera" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/okara-chidera" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/okarachidera" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://x.com/chideraokara" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" />
+  </a>
+  <a href="https://instagram.com/okarachidera" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
