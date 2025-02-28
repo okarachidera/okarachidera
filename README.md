@@ -1,48 +1,100 @@
 <h1 align="center">Hi 👋, I'm Chidera</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">A Passionate Full-Stack Engineer | AI, Web3 & Cloud Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;A+MERN+stack+developer;with+over+4+years+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+TypeScript;Javascript+,Node+JS+,Express;GraphQl+,React+,NextJS;MongoDB+,Postgres+,MsSQL;Oracle+,GCP+,AWS+,Docker;Kubernates+,VMware+,MCP;HTML/CSS+,PHP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;Senior+Software+Engineer;With+Over+6+Years+Experience;AI,+Web3,+Cloud+Developer;Expert+in+Node.js,+TypeScript,+React;AWS,+GCP,+Kubernetes,+Docker;Let's+Connect!&font=Fira%20Code&center=true&width=500&height=50">
 </p>
 
+---
+
+## 🏆 Achievements & Contributions
+<p align="center">
+  <a href="https://edu.penaid.co" target="blank">
+    <img src="https://img.shields.io/badge/Certifi%20Loan%20App-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Certifi Loan App" />
+  </a>
+  <a href="https://kit.be-hookd.com" target="blank">
+    <img src="https://img.shields.io/badge/BeHookd%20Kit-%231DA1F2.svg?&style=for-the-badge&logo=react&logoColor=white" alt="BeHookd Kit" />
+  </a>
+  <a href="https://padi.penaid.co" target="blank">
+    <img src="https://img.shields.io/badge/PADI%20Loan%20App-%23FF6F00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="PADI Loan App" />
+  </a>
+  <a href="https://musiksite.netlify.app/" target="blank">
+    <img src="https://img.shields.io/badge/Musik%20Vibe-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Musik Vibe" />
+  </a>
+</p>
 
 <p align="center">
-  <tr>
-    <th><a href="https://github.com/okarachidera/bookstore-api">🏆 Achievements</a></th>
-    <th><a href="https://trucksnow.netlify.app/">🎩 Notable contributions</a></th>
-  </tr>
- </p>
- 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" /></a> </p>
-
-- 🔭 I’m currently working on **Socket.io**
-- 🌱 I work with **Node JS**
-- 💬 Ask me about **TypeScript, Express, React, Backend and Frontend development**
-- 📫 How to reach me **okara.chidera@gmail.com**
-- ⚡ Fun fact **I love football**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@Reatechking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Reatechking" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/okara-chidera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chidera Okara Linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/okarachidera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@okarachidera" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express Js" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="PHP" width="40" height="40"/> </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="GitHub Trophies" />
+  </a>
 </p>
 
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+## 🔥 About Me
+- 🚀 I am a **results-driven Full-Stack Engineer** with **6+ years** of experience delivering **scalable cloud-based solutions**.
+- 🔭 I’m currently working on **AI-powered applications, Web3, and Cloud infrastructure**.
+- ☁️ Deep expertise in **Cloud platforms** like **AWS, GCP, Azure, and Kubernetes**.
+- 🌍 Specializing in **JavaScript, TypeScript, Node.js, React, and Blockchain Development**.
+- 🎵 Creator of **Musik Vibe**, a platform for seamless music discovery and interaction.
+- 🏆 Proven track record of **leading cross-functional teams**, **optimizing system performance**, and **automating critical business processes**.
+- 💡 Adept at **architecting large-scale applications** and **aligning technical strategies with business goals**.
+- 💬 Ask me about **AI, Web3, Cloud Computing, TypeScript, Express, React, Backend & Frontend Development, and DevOps**.
+- 📫 How to reach me **okara.chidera@gmail.com**.
+- ⚡ Fun fact **I love football** ⚽.
+
+---
+
+## 🚀 Languages, Technologies & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-E79322?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20&%20AI-ff6600?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/okarachidera" target="blank">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okarachidera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okarachidera&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <p align="center">
-<a href="https://github.com/okarachidera">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ugwustanley&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okarachidera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okarachidera&theme=algolia" alt="GitHub Streak" />
 </p>
 
+---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="https://x.com/chideraokara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter (X)" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/okara-chidera" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/okarachidera" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🎯 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=okarachidera&label=Profile%20views&color=blue&style=flat" alt="profile views" />
+</p>
