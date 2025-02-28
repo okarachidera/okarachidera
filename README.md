@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Engineer | AI, Web3 & Cloud Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;A+Senior+Software+Engineer;6+Years+Experience;Building+Scalable+Cloud-Based+Solutions;Working+on+AI-Powered+Applications,+Web3,+and+Cloud;Expert+in+Node.js,+TypeScript,+React;AWS,+GCP,+Docker,+Kubernetes;MongoDB,+PostgreSQL,+Redis;Let's+Connect!&font=Fira%20Code&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;Senior+Software+Engineer;6+Years+Experience;AI,+Web3,+Cloud+Developer;Expert+in+Node.js,+TypeScript,+React;AWS,+GCP,+Kubernetes,+Docker;Let's+Connect!&font=Fira%20Code&center=true&width=500&height=50">
 </p>
 
 ---
@@ -17,6 +17,9 @@
   </a>
   <a href="https://padi.penaid.co">
     <img src="https://img.shields.io/badge/PADI%20Loan%20App-%23FF6F00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="PADI Loan App" />
+  </a>
+  <a href="https://musiksite.netlify.app/">
+    <img src="https://img.shields.io/badge/Musik%20Vibe-%2300D8FF.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Musik Vibe" />
   </a>
 </p>
 
@@ -33,6 +36,7 @@
 - 🔭 I’m currently working on **AI-powered applications, Web3, and Cloud infrastructure**.
 - ☁️ Deep expertise in **Cloud platforms** like **AWS, GCP, Azure, and Kubernetes**.
 - 🌍 Specializing in **JavaScript, TypeScript, Node.js, React, and Blockchain Development**.
+- 🎵 Creator of **Musik Vibe**, a platform for seamless music discovery and interaction.
 - 🏆 Proven track record of **leading cross-functional teams**, **optimizing system performance**, and **automating critical business processes**.
 - 💡 Adept at **architecting large-scale applications** and **aligning technical strategies with business goals**.
 - 💬 Ask me about **AI, Web3, Cloud Computing, TypeScript, Express, React, Backend & Frontend Development, and DevOps**.
@@ -56,7 +60,7 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-E79322?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-ff6600?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20&%20AI-ff6600?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -73,18 +77,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=okarachidera&theme=algolia" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/okarachidera/okarachidera/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ### 📫 Let's Connect!
 <p align="center">
   <a href="mailto:okara.chidera@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/okara-chidera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/chideraokara"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/okarachidera"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/chideraokara"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
