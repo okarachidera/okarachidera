@@ -2,12 +2,12 @@
 <h3 align="center">A Passionate Full-Stack Engineer | AI, Web3 & Cloud Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;Senior+Software+Engineer;6+Years+Experience;AI,+Web3,+Cloud+Developer;Expert+in+Node.js,+TypeScript,+React;AWS,+GCP,+Kubernetes,+Docker;Let's+Connect!&font=Fira%20Code&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;Senior+Software+Engineer;With+Over+6+Years+Experience;AI,+Web3,+Cloud+Developer;Expert+in+Node.js,+TypeScript,+React;AWS,+GCP,+Kubernetes,+Docker;Let's+Connect!&font=Fira%20Code&center=true&width=500&height=50">
 </p>
 
 ---
 
-### 🏆 Achievements & Contributions
+## 🏆 Achievements & Contributions
 <p align="center">
   <a href="https://edu.penaid.co">
     <img src="https://img.shields.io/badge/Certifi%20Loan%20App-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Certifi Loan App" />
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/PADI%20Loan%20App-%23FF6F00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="PADI Loan App" />
   </a>
   <a href="https://musiksite.netlify.app/">
-    <img src="https://img.shields.io/badge/Musik%20Vibe-%2300D8FF.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Musik Vibe" />
+    <img src="https://img.shields.io/badge/Musik%20Vibe-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Musik Vibe" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🔥 About Me
+## 🔥 About Me
 - 🚀 I am a **results-driven Full-Stack Engineer** with **6+ years** of experience delivering **scalable cloud-based solutions**.
 - 🔭 I’m currently working on **AI-powered applications, Web3, and Cloud infrastructure**.
 - ☁️ Deep expertise in **Cloud platforms** like **AWS, GCP, Azure, and Kubernetes**.
@@ -45,7 +45,7 @@
 
 ---
 
-### 🚀 Languages, Technologies & Tools
+## 🚀 Languages, Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/okarachidera">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okarachidera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -79,16 +79,28 @@
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 <p align="center">
-  <a href="mailto:okara.chidera@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/okara-chidera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/chideraokara"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:okara.chidera@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/okara-chidera">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/chideraokara">
+    <img src="https://img.shields.io/badge/Twitter%20(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" />
+  </a>
+  <a href="https://instagram.com/okarachidera">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://musiksite.netlify.app/">
+    <img src="https://img.shields.io/badge/Musik%20Vibe-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Musik Vibe" />
+  </a>
 </p>
 
 ---
 
-### 🎯 Profile Views
+## 🎯 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=okarachidera&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </p>
