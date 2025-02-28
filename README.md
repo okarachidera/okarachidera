@@ -1,77 +1,97 @@
 <h1 align="center">Hi 👋, I'm Chidera</h1>
-<h3 align="center">A Passionate Web3 & Fullstack Developer</h3>
+<h3 align="center">A Passionate Full-Stack Engineer | MERN & Cloud Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Chidera!;Web3+%7C+Fullstack+Developer;Building+Scalable+Decentralized+Apps+%28DApps%29;Smart+Contracts+%7C+Solidity+%7C+Rust+%7C+Ethereum;Optimizing+Performance+%7C+Cloud+%7C+AI;I+love+React%2C+Node.js%2C+TypeScript%2C+AWS"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;A+Senior+Software+Engineer;6+Years+Experience;Building+Scalable+Cloud-Based+Solutions;Solving+Complex+Challenges;Expert+in+Node.js,+TypeScript,+React;AWS,+GCP,+Docker,+Kubernetes;MongoDB,+PostgreSQL,+Redis;AI,+ML,+Stable+Diffusion;Let's+Connect!&font=Fira%20Code&center=true&width=500&height=50">
 </p>
 
+---
+
+### 🏆 Achievements & Contributions
 <p align="center">
-  <tr>
-    <th><a href="https://github.com/okarachidera/blockchain-nft-marketplace">🏆 Achievements</a></th>
-    <th><a href="https://github.com/okarachidera/web3-dapp-starter">🎩 Notable contributions</a></th>
-  </tr>
+  <a href="https://github.com/okarachidera/bookstore-api">
+    <img src="https://img.shields.io/badge/Bookstore%20API-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Bookstore API" />
+  </a>
+  <a href="https://edu.penaid.co">
+    <img src="https://img.shields.io/badge/Certifi%20Loan%20App-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Certifi Loan App" />
+  </a>
+  <a href="https://kit.be-hookd.com">
+    <img src="https://img.shields.io/badge/BeHookd%20Kit-%231DA1F2.svg?&style=for-the-badge&logo=react&logoColor=white" alt="BeHookd Kit" />
+  </a>
+  <a href="https://padi.penaid.co">
+    <img src="https://img.shields.io/badge/PADI%20Loan%20App-%23FF6F00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="PADI Loan App" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="okarachidera" />
+    <img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="GitHub Trophies" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **Web3, Smart Contracts & Blockchain Development**
-- 🌱 I work with **Solidity, Rust, Solana, Ethereum, TypeScript, and AWS**
-- 💬 Ask me about **Web3, DApps, AI, Fullstack Development & Cloud Computing**
-- 📫 How to reach me **okara.chidera@gmail.com**
-- ⚡ Fun fact **I love football**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@Reatechking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Reatechking" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/okara-chidera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chidera Okara Linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/okarachidera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@okarachidera" height="30" width="40" /></a>
-</p>
+### 🔥 About Me
+- 🚀 I am a **results-driven Full-Stack Engineer** with **6+ years** of experience delivering **scalable cloud-based solutions**.
+- 🔭 I’m currently working on **AI-powered applications & Socket.io projects**.
+- 🌍 Specializing in **JavaScript, TypeScript, Node.js, React, and AWS/GCP Cloud Services**.
+- 🏆 Proven track record of **leading cross-functional teams**, **optimizing system performance**, and **automating critical business processes**.
+- 💡 Adept at **architecting large-scale applications** and **aligning technical strategies with business goals**.
+- 💬 Ask me about **TypeScript, Express, React, Backend & Frontend Development, DevOps, and AI integrations**.
+- 📫 How to reach me **okara.chidera@gmail.com**.
+- ⚡ Fun fact **I love football** ⚽.
 
-<h3 align="left">🏆 Notable Achievements</h3>
-<ul>
-  <li>🚀 Developed a **Web3 NFT Marketplace** on **Solana & Ethereum**, using **Rust, Solidity, and IPFS**. <a href="https://github.com/okarachidera/blockchain-nft-marketplace">🔗 GitHub Repo</a></li>
-  <li>🌐 Built a **Decentralized Social Media App** enabling content ownership via **Blockchain & Smart Contracts**.</li>
-  <li>💰 Created a **DeFi Yield Farming Protocol**, using **Solidity & Smart Contract Automation**, reducing gas fees by **20%**.</li>
-  <li>🔗 Integrated **GraphQL & Web3 APIs** for **faster on-chain data access**.</li>
-  <li>📈 Scaled a **high-traffic student loan platform**, optimizing loan approval times by **40%**.</li>
-</ul>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://solana.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="solana" width="40" height="40"/>
-  </a>
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
-
-### ⚙️ &nbsp;GitHub Analytics
+### 🚀 Languages & Tools
 <p align="center">
-<a href="https://github.com/okarachidera">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okarachidera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okarachidera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/okarachidera">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okarachidera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okarachidera&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okarachidera&theme=algolia" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/okarachidera/okarachidera/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="mailto:okara.chidera@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/okara-chidera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Reatechking"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/okarachidera"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎯 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=okarachidera&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </p>
