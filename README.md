@@ -21,7 +21,11 @@
   <a href="https://musiksite.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Musik%20Vibe-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Musik Vibe" />
   </a>
+  <a href="https://chirpfeeds.com" target="_blank">
+    <img src="https://img.shields.io/badge/ChirpFeed-%234285F4.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="ChirpFeed" />
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
