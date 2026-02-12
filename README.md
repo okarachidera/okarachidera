@@ -1,107 +1,82 @@
-<h1 align="center">Hi 👋, I'm Chidera</h1>
-<h3 align="center">A Passionate Full-Stack Engineer | AI, Web3 & Cloud Developer</h3>
+<h1 align="center">Chidera Okara</h1>
+<h3 align="center">Senior Full-Stack Engineer • Cloud & Fintech Systems • AWS Certified Solutions Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chidera;Senior+Software+Engineer;With+Over+6+Years+Experience;AI,+Web3,+Cloud+Developer;Expert+in+Node.js,+TypeScript,+React;AWS,+GCP,+Kubernetes,+Docker;Let's+Connect!&font=Fira%20Code&center=true&width=500&height=50">
+  Building high-traffic fintech, real-time, and cloud-native systems used by real customers in production.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Full-Stack+Engineer;Cloud+%26+Fintech+Systems+Architect;Node.js+%7C+TypeScript+%7C+React+%7C+AWS;Designing+Production-Grade+Systems;Open+to+Global+Engineering+Opportunities&font=Fira%20Code&center=true&width=600&height=45">
 </p>
 
 ---
 
-## 🏆 Achievements & Contributions
+## 🚀 Production Systems & Platforms
 <p align="center">
-  <a href="https://edu.penaid.co" target="_blank">
-    <img src="https://img.shields.io/badge/Certifi%20Loan%20App-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Certifi Loan App" />
+  <a href="https://edu.penaid.co" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Certifi%20Fintech%20Platform-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
-  <a href="https://kit.be-hookd.com" target="_blank">
-    <img src="https://img.shields.io/badge/BeHookd%20Kit-%231DA1F2.svg?&style=for-the-badge&logo=react&logoColor=white" alt="BeHookd Kit" />
+  <a href="https://padi.penaid.co" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PADI%20Loan%20Platform-FF6F00?style=for-the-badge&logo=node.js&logoColor=white"/>
   </a>
-  <a href="https://padi.penaid.co" target="_blank">
-    <img src="https://img.shields.io/badge/PADI%20Loan%20App-%23FF6F00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="PADI Loan App" />
+  <a href="https://chirpfeeds.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ChirpFeeds%20Real--Time-4285F4?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
-  <a href="https://musiksite.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Musik%20Vibe-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Musik Vibe" />
-  </a>
-  <a href="https://chirpfeeds.com" target="_blank">
-    <img src="https://img.shields.io/badge/ChirpFeed-%234285F4.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="ChirpFeed" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=okarachidera" alt="GitHub Trophies" />
+  <a href="https://chideraokara.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Engineering%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🔥 About Me
-- 🚀 I am a **results-driven Full-Stack Engineer** with **6+ years** of experience delivering **scalable cloud-based solutions**.
-- 🔭 I’m currently working on **AI-powered applications, Web3, and Cloud infrastructure**.
-- ☁️ Deep expertise in **Cloud platforms** like **AWS, GCP, Azure, and Kubernetes**.
-- 🌍 Specializing in **JavaScript, TypeScript, Node.js, React, and Blockchain Development**.
-- 🎵 Creator of **Musik Vibe**, a platform for seamless music discovery and interaction.
-- 🏆 Proven track record of **leading cross-functional teams**, **optimizing system performance**, and **automating critical business processes**.
-- 💡 Adept at **architecting large-scale applications** and **aligning technical strategies with business goals**.
-- 💬 Ask me about **AI, Web3, Cloud Computing, TypeScript, Express, React, Backend & Frontend Development, and DevOps**.
-- 📫 How to reach me **okara.chidera@gmail.com**.
-- ⚡ Fun fact **I love football** ⚽.
+## 🧠 About Me
+Senior Full-Stack Engineer and AWS Certified Solutions Architect with 7+ years of building and scaling production systems across fintech, SaaS, and real-time platforms.
+
+I design and ship reliable backend platforms, high-performance frontend systems, and cloud-native infrastructure on AWS.
+My focus is building systems that hold under real traffic, strict uptime requirements, and fast product iteration.
+
+I work across architecture, implementation, performance optimization, observability, and operational excellence.
 
 ---
 
-## 🚀 Languages, Technologies & Tools
+## ⚙️ Core Engineering Strengths
+- Production-grade system design and architecture
+- Scalable Node.js & TypeScript backend services
+- High-performance React & Next.js applications
+- Cloud-native AWS infrastructure & DevOps
+- Event-driven and distributed systems
+- Performance tuning and reliability engineering
+- CI/CD, monitoring, and incident response
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-E79322?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML%20&%20AI-ff6600?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,nestjs,aws,docker,kubernetes,postgres,mongodb,redis,graphql" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-  <a href="https://github.com/okarachidera" target="_blank">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okarachidera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okarachidera&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okarachidera&theme=algolia" alt="GitHub Streak" />
+  <img
+    height="160em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=okarachidera&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
+    alt="GitHub activity stats"
+  />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 🤝 Connect
 <p align="center">
-  <a href="mailto:okara.chidera@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:okara.chidera@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/okara-chidera" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/okara-chidera">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/chideraokara" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%20(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" />
+  <a href="https://chideraokara.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-View-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/okarachidera" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-## 🎯 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=okarachidera&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </p>
