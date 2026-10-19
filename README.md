@@ -58,10 +58,11 @@ I work across architecture, implementation, performance optimization, observabil
 ---
 
 ## 📊 GitHub Activity
+
 <p align="center">
   <img
     height="160em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=okarachidera&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=okarachidera&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&cache_seconds=86400"
     alt="GitHub activity stats"
   />
 </p>
